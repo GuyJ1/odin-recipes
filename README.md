@@ -1,4 +1,4 @@
-This project is a simple recipe based webpage designed using html only.
+This project is a simple recipe based webpage designed using html only from the Odin Project.
 The purpose is to use proper html tags and references to make a functional webpage.
 
 It will have the following.
